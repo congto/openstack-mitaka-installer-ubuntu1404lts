@@ -1,3 +1,16 @@
+1.2.1.ub1404lts - May 17, 2016
+
+- Added missing config item in glance registry.
+- Updated documentation about trove postgresql bug,
+  vlans document and main README.
+
+1.2.0.ub1404lts - May 16, 2016
+
+- Added "EXPERIMENTAL" support for Designate DNSaaS
+  openstack module. Also, we provide the option to
+  enable and configure SINK Service for designate
+  integration with nova and neutron.
+
 1.1.0.ub1404lts - May 10, 2016
 
 - Added configuration of "max connections" and set
